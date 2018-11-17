@@ -1,0 +1,14 @@
+Category,IsoCountryCode,Name,HomepageUrl,IsSelfService,DoumentationUrl,HasCodeLibraries,Organisation,Scope,SourceCodeLicence,Notes
+Payment,GB,GOV.UK Pay,https://www.payments.service.gov.uk/,true,,,Cabinet Office,Central and local government,,
+Payment,IN,UPI,https://www.npci.org.in/product-overview/upi-product-overview,,,,National Payments Corporation of India / Reserve Bank of India,Government and,,
+Messaging,GB,GOV.UK Notify,https://www.notifications.service.gov.uk/,true,,true,Cabinet Office,Central and local government,,
+Identity,GB,GOV.UK Verify,https://govuk-verify.cloudapps.digital,,,,,,,
+Identity,IN,Aadhaar,https://www.uidai.gov.in/,true,,true,Ministry of Electronics and Information Technology,Society,,Developer access to via 3rd party providers
+Identity,IN,eKYC,http://indiastack.org/ekyc/,true,,true,,,,
+Identity,US,login.gov,https://www.login.gov/,true,https://developers.login.gov/,true,18F,Federal,CC0 1.0 Universal public domain,
+Analytics,GB,GOV.UK Performance Platform,https://www.gov.uk/performance,false,,,Cabinet Office,Central,,
+Publishing,GB,GOV.UK,,,,,,,,
+Publishing,US,Federalist,https://18f.gsa.gov/what-we-deliver/federalist/,,,,,,,
+Document signing,IN,DigiLocker,https://digilocker.gov.in/,,http://cca.gov.in/cca/sites/default/files/files/eSign-APIv2.1.pdf,,Ministry of Electronics and Information Technology,,,Documentation is limited
+Hosting,US,cloud.gov,https://cloud.gov/,true,https://cloud.gov/docs/,,,,,
+,IN,NIC Cloud,,,,,,,,
