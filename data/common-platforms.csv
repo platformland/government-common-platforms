@@ -13,3 +13,8 @@ Document signing,IN,DigiLocker,https://digilocker.gov.in/,,http://cca.gov.in/cca
 Hosting,US,cloud.gov,https://cloud.gov/,true,https://cloud.gov/docs/,,,,,
 ,IN,NIC Cloud,,,,,,,
 Payment,US,Pay.gov,https://pay.gov/public/home,,,,Bureau of the Fiscal Service,Central government,,
+Identity,IT,SPID,https://spid.gov.it,,,,AgID,Central and local government,,
+Payment,IT,PagoPA,https://www.agid.gov.it/it/piattaforme/pagopa,,,,AgID,Central and local government,,
+Hosting,IT,CloudPA,https://cloud.italia.it,,,,AgID,Central and local government,,
+Data,IT,DAF-PDND,https://dataportal.daf.teamdigitale.it,,,,Team digitale,Central and local government,,
+App,IT,IO,https://io.italia.it,,,,Team Digitale,Central and local government,,
