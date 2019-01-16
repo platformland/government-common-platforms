@@ -18,4 +18,4 @@ Payment,IT,PagoPA,https://www.agid.gov.it/it/piattaforme/pagopa,,,,AgID,Central 
 Hosting,IT,CloudPA,https://cloud.italia.it,,,,AgID,Central and local government,,
 Data,IT,DAF-PDND,https://dataportal.daf.teamdigitale.it,,,,Team digitale,Central and local government,,
 App,IT,IO,https://io.italia.it,,,,Team Digitale,Central and local government,,
-Identity,JP,https://www.cao.go.jp/bangouseido/,,,,Cabinet Office,Central government,,
+Identity,JP,https://www.cao.go.jp/bangouseido/,,,,Cabinet Office,Central government,,"API documentation appears to be by request. Use by non government entities needs to be explicitly authorised by law"
