@@ -1,7 +1,7 @@
 Category,IsoCountryCode,Name,HomepageUrl,IsSelfService,DoumentationUrl,HasCodeLibraries,OrganisationName,Scope,SourceCodeLicence,Notes
-Payment,GB,GOV.UK Pay,https://www.payments.service.gov.uk/,true,,,Cabinet Office,Central and local government,,
+Payment,GB,GOV.UK Pay,https://www.payments.service.gov.uk/,true,https://docs.payments.service.gov.uk/#gov-uk-pay-documentation,,Cabinet Office,Central and local government,,
 Payment,IN,UPI,https://www.npci.org.in/product-overview/upi-product-overview,,,,National Payments Corporation of India / Reserve Bank of India,Government and,,
-Messaging,GB,GOV.UK Notify,https://www.notifications.service.gov.uk/,true,,true,Cabinet Office,Central and local government,,
+Messaging,GB,GOV.UK Notify,https://www.notifications.service.gov.uk/,true,https://www.notifications.service.gov.uk/documentation,true,Cabinet Office,Central and local government,,
 Identity,GB,GOV.UK Verify,https://govuk-verify.cloudapps.digital,,,,,,,
 Identity,IN,Aadhaar,https://www.uidai.gov.in/,true,,true,Ministry of Electronics and Information Technology,Society,,Developer access to via 3rd party providers
 Identity,IN,eKYC,http://indiastack.org/ekyc/,true,,true,,,,
