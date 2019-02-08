@@ -23,3 +23,4 @@ Transport boarding,IN,DigiYatra, https://www.india.gov.in/spotlight/digi-yatra-n
 Wifi,UK,GovWifi,https://wifi.service.gov.uk,True,https://docs.wifi.service.gov.uk,False,Cabinet Office,Central government,MIT,
 Addresses,FR,adresse.data.gouv.fr,https://adresse.data.gouv.fr,True,https://adresse.data.gouv.fr/api,False,Etalab,Society,,github repo: https://github.com/etalab/adresse.data.gouv.fr
 Procurement,NZ,The Marketplace,https://marketplace.govt.nz,True,https://cloud-marketplace-govt-nz.groovehq.com/help_center,False,New Zealand Government,Central,,Not 100% clear is central government only
+Food safety,GB,Food Hygiene Rating API,http://api.ratings.food.gov.uk/Help,True,http://api.ratings.food.gov.uk/Help,False,Food Standards Agency,Central,,Open data API only
