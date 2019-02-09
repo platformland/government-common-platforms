@@ -27,4 +27,4 @@ Food safety,GB,Food Hygiene Rating API,http://api.ratings.food.gov.uk/Help,True,
 Identity,SE,Bank ID,https://www.bankid.com/en/,False,https://www.bankid.com/bankid-i-dina-tjanster/rp-info,False,Finansiell ID-Teknik BID AB,Society-wide,,"Provided by a private company, but adopted by major banks. It is used beyond banking in healthcare and document signing"
 Wifi,CA,GC-WIFI,,,,,,,,
 Freedom of information,US,FOIA.gov,https://www.foia.gov,True,https://www.foia.gov/developer/,False,United States Department of Justice,Central government,CC0, API provides a way for other agencies to update progress of applications. Code on github at https://github.com/usdoj/foia.gov
-Identity,US,MAX.gov,https://login.max.gov,,,,,,,,
+Identity,US,MAX.gov,https://login.max.gov,,,,,,,,,
