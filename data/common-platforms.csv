@@ -19,7 +19,7 @@ Hosting,IT,CloudPA,https://cloud.italia.it,,,,AgID,Central and local government,
 Data,IT,DAF-PDND,https://dataportal.daf.teamdigitale.it,,,,Team digitale,Central and local government,,
 App,IT,IO,https://io.italia.it,,,,Team Digitale,Central and local government,,
 Identity,JP,MyNumber,https://www.cao.go.jp/bangouseido/,,,,Cabinet Office,Central government,,"API documentation appears to be by request. Use by non government entities needs to be explicitly authorised by law"
-Transport boarding,IN,DigiYatra, https://www.india.gov.in/spotlight/digi-yatra-new-digital-experience-air-travellers,False,,,Ministry of Civil Aviation,Society,"Biometric based identity, ticketing and e-gates system. Needs to be created using an existing identity document that can include Aadhaar, although Aadhaar number is not stored"
+Transport boarding,IN,DigiYatra,https://www.india.gov.in/spotlight/digi-yatra-new-digital-experience-air-travellers,False,,,Ministry of Civil Aviation,Society,Society-wide,"Biometric based identity, ticketing and e-gates system. Needs to be created using an existing identity document that can include Aadhaar, although Aadhaar number is not stored"
 Wifi,UK,GovWifi,https://wifi.service.gov.uk,True,https://docs.wifi.service.gov.uk,False,Cabinet Office,Central government,MIT,
 Addresses,FR,adresse.data.gouv.fr,https://adresse.data.gouv.fr,True,https://adresse.data.gouv.fr/api,False,Etalab,Society,,github repo: https://github.com/etalab/adresse.data.gouv.fr
 Procurement,NZ,The Marketplace,https://marketplace.govt.nz,True,https://cloud-marketplace-govt-nz.groovehq.com/help_center,False,New Zealand Government,Central,,Not 100% clear is central government only
