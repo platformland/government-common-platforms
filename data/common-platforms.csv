@@ -26,3 +26,4 @@ Procurement,NZ,The Marketplace,https://marketplace.govt.nz,True,https://cloud-ma
 Food safety,GB,Food Hygiene Rating API,http://api.ratings.food.gov.uk/Help,True,http://api.ratings.food.gov.uk/Help,False,Food Standards Agency,Central and local government,,Open data API only
 Identity,SE,Bank ID,https://www.bankid.com/en/,False,https://www.bankid.com/bankid-i-dina-tjanster/rp-info,False,Finansiell ID-Teknik BID AB,Society-wide,,"Provided by a private company, but adopted by major banks. It is used beyond banking in healthcare and document signing"
 Wifi,CA,GC-WIFI,,,,,,,,
+Freedom of information,US,FOIA.gov,https://www.foia.gov,True,https://www.foia.gov/developer/,False,United States Department of Justice,Central government,CC0, API provides a way for other agencies to update progress of applications. Code on github at https://github.com/usdoj/foia.gov
