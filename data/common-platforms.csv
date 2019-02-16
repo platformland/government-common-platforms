@@ -28,3 +28,5 @@ Identity,SE,Bank ID,https://www.bankid.com/en/,False,https://www.bankid.com/bank
 Wifi,CA,GC-WIFI,,,,,,,,
 Freedom of information,US,FOIA.gov,https://www.foia.gov,True,https://www.foia.gov/developer/,False,United States Department of Justice,Central government,CC0, API provides a way for other agencies to update progress of applications. Code on github at https://github.com/usdoj/foia.gov
 Identity,US,MAX.gov,https://login.max.gov,,,,,,,
+Payment,US,pay.gov,https://www.pay.gov,False,,False,"U.S. Department of the Treasury, Bureau of the Fiscal Service",Central government,,"18F have a mock version for testing https://github.com/18F/mock-pay"
+
