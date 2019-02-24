@@ -32,3 +32,4 @@ Payment,US,pay.gov,https://www.pay.gov,False,,False,"U.S. Department of the Trea
 Gazetteer,IN,Local Government Directory,https://lgdirectory.gov.in,,,,Panchayats and State Panchayati Raj Department / Ministry of Electronics and Information Technology,Central and local government,,Built to enable DBT welfare payments
 Identity,SE,AB Svenska Pass,,,,,,,"One of 3 identity providers certificed by the Swedish government"
 Identity,SE,Freja eID,,,,,,,"One of 3 identity providers certificed by the Swedish government"
+Design,AU, Common Government Branding API,,,,,,,
