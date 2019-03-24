@@ -35,6 +35,6 @@ Identity,SE,Freja eID,,,,,,,,"One of 3 identity providers certificed by the Swed
 Design,AU, Common Government Branding API,,,,,,,,
 Recreation,US,Recreation.gov,https://www.recreation.gov,True,https://ridb.recreation.gov,False,,Central and government,,"Funded by multiple agencies: https://www.doi.gov/ocl/recreationgov. used to power private sector campsite booking services"
 Analytics,US,The Digital Analytics Program,https://digital.gov/dap/,True,https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/DAP_v3.1_QuickGuide_Aug2016-1.pdf,True,General Services Administration,Central government,,Wrapper around Google Analytics. GSA also provides training to government agencies
-Taxi,FR,Le Taxi,https://le.taxi,True,https://api.gouv.fr/api/le-taxi.html#doc_tech,False,Central and local government,,"Central government provides an Uber-like framework for taxi companies and app builders"
+Taxi,FR,Le Taxi,https://le.taxi,True,https://api.gouv.fr/api/le-taxi.html#doc_tech,False,,Central and local government,,"Central government provides an Uber-like framework for taxi companies and app builders"
 Code,US,Code California,https://go.code.ca.gov,False,,False,CalGovOps & California Department of Technology,Local government,,
 Food,US,Farmers Market Directory,https://www.ams.usda.gov/local-food-directories/farmersmarkets,True,https://search.ams.usda.gov/farmersmarkets/v1/svcdesc.html,True,"United States Department of Agriculture - Agricultural Marketing Service",,,
