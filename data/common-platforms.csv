@@ -40,3 +40,4 @@ Code,US,Code California,https://go.code.ca.gov,False,,False,CalGovOps & Californ
 Food,US,Farmers Market Directory,https://www.ams.usda.gov/local-food-directories/farmersmarkets,True,https://search.ams.usda.gov/farmersmarkets/v1/svcdesc.html,True,"United States Department of Agriculture - Agricultural Marketing Service",,,
 Tax,IN,Goods & Services Tax Network,https://www.gstn.org,,,,,,,"A non profit company owned by federal and state governmewnt, and by the private sector"
 Insolvency,AU,National Personal Insolvency Index Search,https://api.gov.au/service/5b3eb49c7d0e99000457ffa9,,,,,,,
+Petition,GB,UK Government and Parliament petitions,http://petition.parliament.uk/,,,,,,,
