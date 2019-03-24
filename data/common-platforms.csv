@@ -38,3 +38,4 @@ Analytics,US,The Digital Analytics Program,https://digital.gov/dap/,True,https:/
 Taxi,FR,Le Taxi,https://le.taxi,True,https://api.gouv.fr/api/le-taxi.html#doc_tech,False,,Central and local government,,"Central government provides an Uber-like framework for taxi companies and app builders"
 Code,US,Code California,https://go.code.ca.gov,False,,False,CalGovOps & California Department of Technology,Local government,,
 Food,US,Farmers Market Directory,https://www.ams.usda.gov/local-food-directories/farmersmarkets,True,https://search.ams.usda.gov/farmersmarkets/v1/svcdesc.html,True,"United States Department of Agriculture - Agricultural Marketing Service",,,
+Tax,IN,Goods & Services Tax Network,https://www.gstn.org,,,,,,,,"A non profit company owned by federal and state governmewnt, and by the private sector"
