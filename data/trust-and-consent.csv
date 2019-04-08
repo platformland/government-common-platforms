@@ -12,3 +12,4 @@
 "Identity","SE","AB Svenska Pass","","","","","","","","One of 3 identity providers certificed by the Swedish government"
 "Identity","SE","Freja eID","","","","","","","","One of 3 identity providers certificed by the Swedish government"
 "Identity","AU","MyGov","https://my.gov.au/LoginServices/main/login?execution=e2s1","","","","","","",""
+"Key management","US","https://www.idmanagement.gov/fpki/","","","","","","",""
