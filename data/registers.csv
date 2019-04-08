@@ -1,1 +1,5 @@
-
+"Category","IsoCountryCode","Name","HomepageUrl","IsSelfService","DoumentationUrl","HasCodeLibraries","OrganisationName","Scope","SourceCodeLicence","Notes"
+"Addresses","FR","adresse.data.gouv.fr","https://adresse.data.gouv.fr","True","https://adresse.data.gouv.fr/api","False","Etalab","Society","","github repo: https://github.com/etalab/adresse.data.gouv.fr"
+"Food safety","GB","Food Hygiene Rating API","http://api.ratings.food.gov.uk/Help","True","http://api.ratings.food.gov.uk/Help","False","Food Standards Agency","Central and local government","","Open data API only"
+"Gazetteer","IN","Local Government Directory","https://lgdirectory.gov.in","","","","Panchayats and State Panchayati Raj Department / Ministry of Electronics and Information Technology","Central and local government","","Built to enable DBT welfare payments"
+"Insolvency","AU","National Personal Insolvency Index Search","https://api.gov.au/service/5b3eb49c7d0e99000457ffa9","","","","","","",""
