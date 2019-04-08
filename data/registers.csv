@@ -4,3 +4,4 @@
 "Gazetteer","IN","Local Government Directory","https://lgdirectory.gov.in","","","","Panchayats and State Panchayati Raj Department / Ministry of Electronics and Information Technology","Central and local government","","Built to enable DBT welfare payments"
 "Insolvency","AU","National Personal Insolvency Index Search","https://api.gov.au/service/5b3eb49c7d0e99000457ffa9","","","","","","",""
 "Prisons","GB","Prison estate register","https://www.registers.service.gov.uk/registers/prison-estate","True","https://docs.registers.service.gov.uk/#choose-a-response-format","","","","",""
+"Land","ES","","https://www.rik.ee/en/e-land-register","","","","","","",""
