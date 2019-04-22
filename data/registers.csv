@@ -6,5 +6,5 @@
 "Prisons","GB","Prison estate register","https://www.registers.service.gov.uk/registers/prison-estate","True","https://docs.registers.service.gov.uk/#choose-a-response-format","","","","",""
 "Land","ES","e-Land Register","https://www.rik.ee/en/e-land-register","","","","","","",""
 "Design","GB","The Scottish Register of Tartans","https://www.tartanregister.gov.uk/index","","","","","","",""
-"Geospatial","API Carto","https://api.gouv.fr/api/api\_carto.html","","","","","","",""
-"elections","Open FEC","https://api.open.fec.gov/developers/","","","","","","",""
+"Geospatial","FR","API Carto","https://api.gouv.fr/api/api\_carto.html","","","","","","",""
+"elections","US","Open FEC","https://api.open.fec.gov/developers/","","","","","","",""
