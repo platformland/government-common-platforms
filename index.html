@@ -105,12 +105,21 @@ layout: default
   {% endif %}
 
   <script src="{{ site.certificate_url }}"></script>
-
-  <h2>Support</h2>
-
-    <p>If you have support queries, suggestions or corrections to the data, please <a href="{{ site.github.issues_url }}" target="_blank">file a new issue</a> in our GitHub repository.</p>
-
-	  <p>All comments and subsequent fixes will be <a href="{{ site.github.issues_url }}" target="_blank">logged openly</a> such that you can easily see the provenance of each object in this dataset.</p>
+  <h2>Submission guidelines and definitions</h2>
+  <p>The definition of a platform is fuzzy, so, if in doubt, please <a href="https://github.com/platformland/government-common-platforms/settings">raise a ticket on github</a>.</p>
+  <p>There are three categories of platform:</p>
+  <ul>
+	  <li><code>Common components and APIs</code> - cross-government components (such as payment systems or analytics platforms) and APIs that expose the business rules of government (e.g. apply for a fishing license)</li>
+	  <li><code>Trust and consent</code> - cross-government authentication and identity systems, key management and data exchange systems </li>
+	  <li><code>Registers</code> - cannonical datasets used by multiple government services</li>
+  </ul>
+	  <p>The key thing is that all of the above should be in use <em>across</em> a government or city, not within a single agency.</p>
+  <h3>Field definitions</h3>
+  <p>The <code>IsSelfService</code> should be set to 'True' if it is possible for a user to start using the platform immediately (e.g. in a sandbox mode).
+  <code>DoumentationUrl</code> should be a valid URL for any documentation on how developers or administrators should use the platform.
+  <code>HasCodeLibraries</code> should be set to 'True' if there are public code samples for integrating with the platform. 
+  <code>OrganisationName</code> should be the organisation responsible for maintaining and operating the platform.
+  </p>
 
     <p class="lastUpdate text-right">Last update: {{ site.time | date: '%Y-%m-%d at %H:%M' }}</p>
 
